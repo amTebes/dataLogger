@@ -1,0 +1,1 @@
+cmd_fs/jbd2/built-in.a := rm -f fs/jbd2/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST fs/jbd2/built-in.a fs/jbd2/transaction.o fs/jbd2/commit.o fs/jbd2/recovery.o fs/jbd2/checkpoint.o fs/jbd2/revoke.o fs/jbd2/journal.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a := rm -f drivers/input/serio/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/serport.o drivers/input/serio/libps2.o

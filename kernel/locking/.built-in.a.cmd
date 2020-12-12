@@ -1,0 +1,1 @@
+cmd_kernel/locking/built-in.a := rm -f kernel/locking/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST kernel/locking/built-in.a kernel/locking/mutex.o kernel/locking/semaphore.o kernel/locking/rwsem.o kernel/locking/percpu-rwsem.o kernel/locking/rtmutex.o

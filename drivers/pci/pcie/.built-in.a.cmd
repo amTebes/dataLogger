@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/built-in.a := rm -f drivers/pci/pcie/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/pci/pcie/built-in.a drivers/pci/pcie/aspm.o

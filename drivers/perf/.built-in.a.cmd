@@ -1,0 +1,1 @@
+cmd_drivers/perf/built-in.a := rm -f drivers/perf/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/perf/built-in.a drivers/perf/arm_pmu.o drivers/perf/arm_pmu_platform.o

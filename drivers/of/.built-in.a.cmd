@@ -1,0 +1,1 @@
+cmd_drivers/of/built-in.a := rm -f drivers/of/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/of/built-in.a drivers/of/base.o drivers/of/device.o drivers/of/platform.o drivers/of/property.o drivers/of/kobj.o drivers/of/fdt.o drivers/of/fdt_address.o drivers/of/address.o drivers/of/irq.o drivers/of/of_reserved_mem.o

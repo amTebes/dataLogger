@@ -1,0 +1,1 @@
+cmd_drivers/gpio/built-in.a := rm -f drivers/gpio/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/gpio/built-in.a drivers/gpio/gpiolib.o drivers/gpio/gpiolib-devres.o drivers/gpio/gpiolib-legacy.o drivers/gpio/gpiolib-devprop.o drivers/gpio/gpiolib-cdev.o drivers/gpio/gpiolib-of.o

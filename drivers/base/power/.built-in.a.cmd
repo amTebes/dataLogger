@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.a := rm -f drivers/base/power/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/base/power/built-in.a drivers/base/power/clock_ops.o

@@ -1,0 +1,1 @@
+cmd_drivers/block/built-in.a := rm -f drivers/block/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/block/built-in.a drivers/block/brd.o drivers/block/loop.o

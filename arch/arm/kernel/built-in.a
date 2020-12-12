@@ -1,0 +1,68 @@
+!<thin>
+//                                              404       `
+elf.o/
+entry-common.o/
+irq.o/
+opcodes.o/
+process.o/
+ptrace.o/
+reboot.o/
+setup.o/
+signal.o/
+sigreturn_codes.o/
+stacktrace.o/
+sys_arm.o/
+time.o/
+traps.o/
+return_address.o/
+atags_parse.o/
+entry-armv.o/
+bugs.o/
+bios32.o/
+isa.o/
+arch_timer.o/
+devtree.o/
+hw_breakpoint.o/
+perf_regs.o/
+perf_callchain.o/
+perf_event_xscale.o/
+perf_event_v6.o/
+perf_event_v7.o/
+vdso.o/
+io.o/
+paravirt.o/
+hyp-stub.o/
+smccc-call.o/
+/0              0           0     0     644     1428      `
+/7              0           0     0     644     20004     `
+/23             0           0     0     644     2064      `
+/30             0           0     0     644     1096      `
+/41             0           0     0     644     7436      `
+/52             0           0     0     644     7688      `
+/62             0           0     0     644     2788      `
+/72             0           0     0     644     19308     `
+/81             0           0     0     644     6008      `
+/91             0           0     0     644     864       `
+/110            0           0     0     644     1064      `
+/124            0           0     0     644     944       `
+/135            0           0     0     644     1580      `
+/143            0           0     0     644     12088     `
+/152            0           0     0     644     1120      `
+/170            0           0     0     644     5016      `
+/185            0           0     0     644     7524      `
+/199            0           0     0     644     1192      `
+/207            0           0     0     644     7512      `
+/217            0           0     0     644     1884      `
+/224            0           0     0     644     1416      `
+/238            0           0     0     644     4116      `
+/249            0           0     0     644     14556     `
+/266            0           0     0     644     1548      `
+/279            0           0     0     644     2112      `
+/297            0           0     0     644     772       `
+/318            0           0     0     644     768       `
+/335            0           0     0     644     25292     `
+/352            0           0     0     644     11332     `
+/360            0           0     0     644     1596      `
+/366            0           0     0     644     884       `
+/378            0           0     0     644     1660      `
+/390            0           0     0     644     760       `

@@ -1,0 +1,1 @@
+cmd_kernel/dma/built-in.a := rm -f kernel/dma/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST kernel/dma/built-in.a kernel/dma/mapping.o kernel/dma/direct.o kernel/dma/dummy.o kernel/dma/coherent.o kernel/dma/remap.o

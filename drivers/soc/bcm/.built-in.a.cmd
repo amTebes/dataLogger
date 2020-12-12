@@ -1,0 +1,1 @@
+cmd_drivers/soc/bcm/built-in.a := rm -f drivers/soc/bcm/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/soc/bcm/built-in.a drivers/soc/bcm/bcm2835-power.o

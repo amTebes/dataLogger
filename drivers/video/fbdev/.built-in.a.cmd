@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.a := rm -f drivers/video/fbdev/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/video/fbdev/built-in.a drivers/video/fbdev/core/built-in.a drivers/video/fbdev/omap2/built-in.a

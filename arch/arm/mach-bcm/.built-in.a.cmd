@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-bcm/built-in.a := rm -f arch/arm/mach-bcm/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST arch/arm/mach-bcm/built-in.a arch/arm/mach-bcm/board_bcm2835.o arch/arm/mach-bcm/bcm2711.o

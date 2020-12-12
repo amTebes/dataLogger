@@ -1,0 +1,1 @@
+cmd_drivers/video/console/built-in.a := rm -f drivers/video/console/built-in.a; /home/ctw00838/ISEP/ARCOM/buildroot-rpi/output/host/usr/bin/arm-linux-ar cDPrST drivers/video/console/built-in.a drivers/video/console/dummycon.o
